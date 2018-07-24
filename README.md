@@ -37,7 +37,7 @@ Please read [CONTRIBUTING.md](https://github.com/Cabrra/Contributing-template/bl
 
 ## License
 
-This project is licensed under the unlicense - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for details
 
 
 ## Acknowledgments
